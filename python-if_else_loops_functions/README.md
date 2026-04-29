@@ -1,1 +1,1 @@
-This repository contains Python projects for learning basic programming concepts.
+This direcotry contains Python projects for learning basic programming concepts.
